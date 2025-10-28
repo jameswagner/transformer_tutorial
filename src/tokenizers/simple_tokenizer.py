@@ -1,6 +1,6 @@
-"""Simple word-level tokenizer for learning"""
-from typing import List, Dict
-import re
+"""Pomodoro 2: Simple word-level tokenizer for learning"""
+from typing import List
+
 
 class SimpleTokenizer:
     """
